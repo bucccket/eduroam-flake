@@ -102,3 +102,4 @@ Reviewing this file manually tells us a lot about how Nix works!
 | Technical University of Munich    | 5155     | `nix run .#install-eduroam-tum`         |
 | TU Dortmund University            | 5208     | `nix run .#install-eduroam-tudo`        |
 | Roskilde University               | 949      | `nix run .#install-eduroam-roskilde`    |
+| Università degli Studi di Milano  | 13554    | `nix run .#install-eduroam-unimi`       |
