@@ -4,17 +4,17 @@
 # 2. run `nix build .\#install-eduroam-new`
 # 3. add the hash from the error to the list entry
 [
-  { name = "bonn"; id = 5133; hash = "sha256-2VnpEu2na6HeQADVUdlR4d8IAIS1RP7kXavGRtSgLqI="; }
-  { name = "flensburg"; id = 5188; hash = "sha256-RrYwPolob6+xwQn8MTPHVLUI/W4oNYAFSAtHEc0dNR0="; }
-  { name = "koeln"; id = 5133; hash = "sha256-2VnpEu2na6HeQADVUdlR4d8IAIS1RP7kXavGRtSgLqI="; }
-  { name = "leipzig"; id = 5674; hash = "sha256-TEYTR8TeRNIIZcUx01j9pfedkk0PF5XuXPAVUyI136E="; }
-  { name = "lund"; id = 1338; hash = "sha256-wFE3m9NKq3RkPXdbwVOuhHkozI2J2qvVjnVwjq9qAK4="; }
-  { name = "roskilde"; id = 949; hash = "sha256-OHDUOWRT6jak8uKRnwDI7WBAsG0AuiHekOQ8LOnzchQ="; }
-  { name = "siegen"; id = 5356; hash = "sha256-oiCKmaFXbLz+q8bbYx7ZkstDr0bQOOUv/mcktMzFQ90="; }
-  { name = "strathclyde"; id = 2316; hash = "sha256-pJ8geu1MToF9VSJth+BgJ/ut0rwBnseGD+WILsPcWZI="; }
-  { name = "tudo"; id = 5411; hash = "sha256-/aRaVJIGNkmMNb2gIL04/l+N5cqU/bJzxod9DR4/NeQ="; }
-  { name = "tum"; id = 5155; hash = "sha256-MhkJhdgyx4F+7xtWAHsjIcLD8zH3sK8cA5P6IDlllHY="; }
-  { name = "udl"; id = 5824; hash = "sha256-J4fJkCrncDWPJPoXFz3kC7Qwiz1ip/XpgBYVLafc8YM="; }
-  { name = "vccs"; id = 11835; hash = "sha256-iMvG6oEoa7HvIkZwaOsU1tUuGnHk8+LNHlzlRPeZa44="; }
-  { name = "unimi"; id = 13554; hash = "sha256-U/3NqM+gFjYu2jNof8ZwR2hKNoFv243sHLje0JsixzI="; }
+  { name = "bonn"; id = 5133; hash = "sha256-hi/eL8NtZGNXx/QNKxL7/0b68STGAyauKuiCd46Uxd0="; }
+  { name = "flensburg"; id = 5188; hash = "sha256-7d3JLeaFvUPPZ7fZfidsANk88guEmKxjxscPySqgKzc="; }
+  { name = "koeln"; id = 5133; hash = "sha256-hi/eL8NtZGNXx/QNKxL7/0b68STGAyauKuiCd46Uxd0="; }
+  { name = "leipzig"; id = 5674; hash = "sha256-6SIjj3Rq3hCzlE3H6yjFHR3dVUm6qr3zt/mZnTN3uxc="; }
+  { name = "lund"; id = 1338; hash = "sha256-kTeIklCek4tDE4EmgLo1Yj+BKcv4ajm1RnW5dCDJawQ="; }
+  { name = "roskilde"; id = 949; hash = "sha256-ymZos7rmLps52x5DmzoPYC2KW0aJZFGTydSRvFh3Kis="; }
+  { name = "siegen"; id = 5356; hash = "sha256-4F4zaYi5CDdpNa7/zj+79TuXpPSbRCC/b7pcwE8gNTY="; }
+  { name = "strathclyde"; id = 2316; hash = "sha256-14Vw0ZbgeQ9VIo6yqHpAtzHqoPniEKOV4SppnaIDlPk="; }
+  { name = "tudo"; id = 5411; hash = "sha256-nkaD2PCXvjbUIHAtIKYROrWHWmy5XVHjnxoKUDzkGWY="; }
+  { name = "tum"; id = 5155; hash = "sha256-vXlNzV9iZbm0ywLUDmxCkS713WHZ+NHuSRWAQjdfn0w="; }
+  { name = "udl"; id = 5824; hash = "sha256-yCdwNPbwpYmYApcZTh4XU9Xk1o+DoefFX94WvLsh2XY="; }
+  { name = "vccs"; id = 11835; hash = "sha256-mh8BLKj/8j7lFrs3TcVk4vanKjP4HrT+Edqkcah9tBk="; }
+  { name = "unimi"; id = 13554; hash = "sha256-ZNk8DP+urdo42keNlfxwceDTL8LPOQGpoA2jdGR9fdY="; }
 ]
